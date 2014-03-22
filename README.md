@@ -11,3 +11,7 @@
 * HTML5 Boiler plate 4.2.0
 * AngularUI Bootstrap 0.6.0
 * Node 0.10
+
+## Modules
+ Run `npm install` after download
+ 
